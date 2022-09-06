@@ -1,6 +1,7 @@
 {
   "tokenSetOrder": [
     "System",
-    "Baseline"
+    "baseline/light",
+    "baseline/dark"
   ]
 }
