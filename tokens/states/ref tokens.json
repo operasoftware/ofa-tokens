@@ -1,0 +1,168 @@
+{
+  "Baseline": {
+    "ref": {
+      "success": {
+        "success100": {
+          "value": "#ffffff",
+          "type": "color"
+        },
+        "success99": {
+          "value": "#f5ffee",
+          "type": "color"
+        },
+        "success95": {
+          "value": "#c5ffc0",
+          "type": "color"
+        },
+        "success90": {
+          "value": "#8efa90",
+          "type": "color"
+        },
+        "success80": {
+          "value": "#72dd77",
+          "type": "color"
+        },
+        "success70": {
+          "value": "#56c05e",
+          "type": "color"
+        },
+        "success60": {
+          "value": "#39a547",
+          "type": "color"
+        },
+        "success50": {
+          "value": "#148a2f",
+          "type": "color"
+        },
+        "success40": {
+          "value": "#006e1c",
+          "type": "color"
+        },
+        "success30": {
+          "value": "#005313",
+          "type": "color"
+        },
+        "success20": {
+          "value": "#003909",
+          "type": "color"
+        },
+        "success10": {
+          "value": "#08200a",
+          "type": "color"
+        },
+        "success0": {
+          "value": "#000000",
+          "type": "color"
+        }
+      },
+      "warning": {
+        "warning100": {
+          "value": "#ffffff",
+          "type": "color"
+        },
+        "warning99": {
+          "value": "#fcfcfc",
+          "type": "color"
+        },
+        "warning95": {
+          "value": "#ffede4",
+          "type": "color"
+        },
+        "warning90": {
+          "value": "#ffdbc8",
+          "type": "color"
+        },
+        "warning80": {
+          "value": "#ffb68d",
+          "type": "color"
+        },
+        "warning70": {
+          "value": "#ff8d45",
+          "type": "color"
+        },
+        "warning60": {
+          "value": "#eb6a00",
+          "type": "color"
+        },
+        "warning50": {
+          "value": "#c55600",
+          "type": "color"
+        },
+        "warning40": {
+          "value": "#9d4300",
+          "type": "color"
+        },
+        "warning30": {
+          "value": "#783200",
+          "type": "color"
+        },
+        "warning20": {
+          "value": "#552100",
+          "type": "color"
+        },
+        "warning10": {
+          "value": "#341100",
+          "type": "color"
+        },
+        "warning0": {
+          "value": "#000",
+          "type": "color"
+        }
+      },
+      "error": {
+        "error100": {
+          "value": "#ffffff",
+          "type": "color"
+        },
+        "error99": {
+          "value": "#fcfcfc",
+          "type": "color"
+        },
+        "error95": {
+          "value": "#ffede9",
+          "type": "color"
+        },
+        "error90": {
+          "value": "#ffdad4",
+          "type": "color"
+        },
+        "error80": {
+          "value": "#ffb4a9",
+          "type": "color"
+        },
+        "error70": {
+          "value": "#ff897a",
+          "type": "color"
+        },
+        "error60": {
+          "value": "#ff5449",
+          "type": "color"
+        },
+        "error50": {
+          "value": "#dd3730",
+          "type": "color"
+        },
+        "error40": {
+          "value": "#ba1b1b",
+          "type": "color"
+        },
+        "error30": {
+          "value": "#930006",
+          "type": "color"
+        },
+        "error20": {
+          "value": "#680003",
+          "type": "color"
+        },
+        "error10": {
+          "value": "#410001",
+          "type": "color"
+        },
+        "error0": {
+          "value": "#000",
+          "type": "color"
+        }
+      }
+    }
+  }
+}

@@ -2,6 +2,9 @@
   "tokenSetOrder": [
     "System",
     "baseline/light",
-    "baseline/dark"
+    "baseline/dark",
+    "states/sys tokens/light",
+    "states/sys tokens/dark",
+    "states/ref tokens"
   ]
 }
