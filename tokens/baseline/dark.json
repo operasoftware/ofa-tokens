@@ -1,136 +1,134 @@
 {
-  "Baseline": {
-    "sys": {
-      "dark": {
-        "primary": {
-          "value": "#afc6ff",
-          "type": "color",
-          "description": "primary : on-primary\n\nRegular text:\nLevel AA - ✅ Pass\nLevel AAA - ✅ Pass\n\nLarge text:\nLevel AA - ✅ Pass\nLevel AAA - ✅ Pass\n\nIcons:\nLevel AA - ✅ Pass\n"
-        },
-        "on-primary": {
-          "value": "#002c71",
-          "type": "color"
-        },
-        "primary-container": {
-          "value": "#00419f",
-          "type": "color",
-          "description": "primary-container : on-primary-container\n\nRegular text:\nLevel AA - ✅ Pass\nLevel AAA - ✅ Pass\n\nLarge text:\nLevel AA - ✅ Pass\nLevel AAA - ✅ Pass\n\nIcons:\nLevel AA - ✅ Pass\n"
-        },
-        "on-primary-container": {
-          "value": "#d8e2ff",
-          "type": "color"
-        },
-        "secondary": {
-          "value": "#c0c6dc",
-          "type": "color",
-          "description": "secondary : on-secondary\n\nRegular text:\nLevel AA - ✅ Pass\nLevel AAA - ✅ Pass\n\nLarge text:\nLevel AA - ✅ Pass\nLevel AAA - ✅ Pass\n\nIcons:\nLevel AA - ✅ Pass\n"
-        },
-        "on-secondary": {
-          "value": "#293042",
-          "type": "color"
-        },
-        "secondary-container": {
-          "value": "#404659",
-          "type": "color",
-          "description": "secondary-container : on-secondary-container\n\nRegular text:\nLevel AA - ✅ Pass\nLevel AAA - ✅ Pass\n\nLarge text:\nLevel AA - ✅ Pass\nLevel AAA - ✅ Pass\n\nIcons:\nLevel AA - ✅ Pass\n"
-        },
-        "on-secondary-container": {
-          "value": "#dce2f9",
-          "type": "color"
-        },
-        "tertiary": {
-          "value": "#e0bbde",
-          "type": "color",
-          "description": "tertiary : on-tertiary\n\nRegular text:\nLevel AA - ✅ Pass\nLevel AAA - ✅ Pass\n\nLarge text:\nLevel AA - ✅ Pass\nLevel AAA - ✅ Pass\n\nIcons:\nLevel AA - ✅ Pass\n"
-        },
-        "on-tertiary": {
-          "value": "#412842",
-          "type": "color"
-        },
-        "tertiary-container": {
-          "value": "#593d5a",
-          "type": "color",
-          "description": "tertiary-container : on-tertiary-container\n\nRegular text:\nLevel AA - ✅ Pass\nLevel AAA - ✅ Pass\n\nLarge text:\nLevel AA - ✅ Pass\nLevel AAA - ✅ Pass\n\nIcons:\nLevel AA - ✅ Pass\n"
-        },
-        "on-tertiary-container": {
-          "value": "#fdd7fa",
-          "type": "color"
-        },
-        "background": {
-          "value": "#1b1b1e",
-          "type": "color",
-          "description": "background : on-background\n\nRegular text:\nLevel AA - ✅ Pass\nLevel AAA - ✅ Pass\n\nLarge text:\nLevel AA - ✅ Pass\nLevel AAA - ✅ Pass\n\nIcons:\nLevel AA - ✅ Pass\n"
-        },
-        "on-background": {
-          "value": "#e4e2e6",
-          "type": "color"
-        },
-        "surface": {
-          "value": "#1b1b1e",
-          "type": "color",
-          "description": "surface : on-surface\n\nRegular text:\nLevel AA - ✅ Pass\nLevel AAA - ✅ Pass\n\nLarge text:\nLevel AA - ✅ Pass\nLevel AAA - ✅ Pass\n\nIcons:\nLevel AA - ✅ Pass\n"
-        },
-        "on-surface": {
-          "value": "#e4e2e6",
-          "type": "color"
-        },
-        "surface-variant": {
-          "value": "#44464e",
-          "type": "color",
-          "description": "surface-variant : on-surface-variant\n\nRegular text:\nLevel AA - ✅ Pass\nLevel AAA - ❌ Fail\n\nLarge text:\nLevel AA - ✅ Pass\nLevel AAA - ✅ Pass\n\nIcons:\nLevel AA - ✅ Pass\n"
-        },
-        "on-surface-variant": {
-          "value": "#c5c6d0",
-          "type": "color"
-        },
-        "outline": {
-          "value": "#8e9099",
-          "type": "color"
-        },
-        "inverse-on-surface": {
-          "value": "#1b1b1e",
-          "type": "color"
-        },
-        "inverse-surface": {
-          "value": "#e4e2e6",
-          "type": "color"
-        },
-        "inverse-primary": {
-          "value": "#0058cb",
-          "type": "color"
-        },
-        "shadow": {
-          "value": "#000000",
-          "type": "color"
-        },
-        "surface1-fill": {
-          "value": "#212227",
-          "type": "color"
-        },
-        "surface2-fill": {
-          "value": "#24252b",
-          "type": "color"
-        },
-        "surface3-fill": {
-          "value": "#272930",
-          "type": "color"
-        },
-        "surface4-fill": {
-          "value": "#2b2e37",
-          "type": "color"
-        },
-        "surface5-fill": {
-          "value": "#2d3039",
-          "type": "color"
-        },
-        "white": {
-          "value": "#ffffff",
-          "type": "color"
-        },
-        "black": {
-          "value": "#000000",
-          "type": "color"
-        }
+  "sys": {
+    "dark": {
+      "primary": {
+        "value": "#afc6ff",
+        "type": "color",
+        "description": "primary : on-primary\n\nRegular text:\nLevel AA - ✅ Pass\nLevel AAA - ✅ Pass\n\nLarge text:\nLevel AA - ✅ Pass\nLevel AAA - ✅ Pass\n\nIcons:\nLevel AA - ✅ Pass\n"
+      },
+      "on-primary": {
+        "value": "#002c71",
+        "type": "color"
+      },
+      "primary-container": {
+        "value": "#00419f",
+        "type": "color",
+        "description": "primary-container : on-primary-container\n\nRegular text:\nLevel AA - ✅ Pass\nLevel AAA - ✅ Pass\n\nLarge text:\nLevel AA - ✅ Pass\nLevel AAA - ✅ Pass\n\nIcons:\nLevel AA - ✅ Pass\n"
+      },
+      "on-primary-container": {
+        "value": "#d8e2ff",
+        "type": "color"
+      },
+      "secondary": {
+        "value": "#c0c6dc",
+        "type": "color",
+        "description": "secondary : on-secondary\n\nRegular text:\nLevel AA - ✅ Pass\nLevel AAA - ✅ Pass\n\nLarge text:\nLevel AA - ✅ Pass\nLevel AAA - ✅ Pass\n\nIcons:\nLevel AA - ✅ Pass\n"
+      },
+      "on-secondary": {
+        "value": "#293042",
+        "type": "color"
+      },
+      "secondary-container": {
+        "value": "#404659",
+        "type": "color",
+        "description": "secondary-container : on-secondary-container\n\nRegular text:\nLevel AA - ✅ Pass\nLevel AAA - ✅ Pass\n\nLarge text:\nLevel AA - ✅ Pass\nLevel AAA - ✅ Pass\n\nIcons:\nLevel AA - ✅ Pass\n"
+      },
+      "on-secondary-container": {
+        "value": "#dce2f9",
+        "type": "color"
+      },
+      "tertiary": {
+        "value": "#e0bbde",
+        "type": "color",
+        "description": "tertiary : on-tertiary\n\nRegular text:\nLevel AA - ✅ Pass\nLevel AAA - ✅ Pass\n\nLarge text:\nLevel AA - ✅ Pass\nLevel AAA - ✅ Pass\n\nIcons:\nLevel AA - ✅ Pass\n"
+      },
+      "on-tertiary": {
+        "value": "#412842",
+        "type": "color"
+      },
+      "tertiary-container": {
+        "value": "#593d5a",
+        "type": "color",
+        "description": "tertiary-container : on-tertiary-container\n\nRegular text:\nLevel AA - ✅ Pass\nLevel AAA - ✅ Pass\n\nLarge text:\nLevel AA - ✅ Pass\nLevel AAA - ✅ Pass\n\nIcons:\nLevel AA - ✅ Pass\n"
+      },
+      "on-tertiary-container": {
+        "value": "#fdd7fa",
+        "type": "color"
+      },
+      "background": {
+        "value": "#1b1b1e",
+        "type": "color",
+        "description": "background : on-background\n\nRegular text:\nLevel AA - ✅ Pass\nLevel AAA - ✅ Pass\n\nLarge text:\nLevel AA - ✅ Pass\nLevel AAA - ✅ Pass\n\nIcons:\nLevel AA - ✅ Pass\n"
+      },
+      "on-background": {
+        "value": "#e4e2e6",
+        "type": "color"
+      },
+      "surface": {
+        "value": "#1b1b1e",
+        "type": "color",
+        "description": "surface : on-surface\n\nRegular text:\nLevel AA - ✅ Pass\nLevel AAA - ✅ Pass\n\nLarge text:\nLevel AA - ✅ Pass\nLevel AAA - ✅ Pass\n\nIcons:\nLevel AA - ✅ Pass\n"
+      },
+      "on-surface": {
+        "value": "#e4e2e6",
+        "type": "color"
+      },
+      "surface-variant": {
+        "value": "#44464e",
+        "type": "color",
+        "description": "surface-variant : on-surface-variant\n\nRegular text:\nLevel AA - ✅ Pass\nLevel AAA - ❌ Fail\n\nLarge text:\nLevel AA - ✅ Pass\nLevel AAA - ✅ Pass\n\nIcons:\nLevel AA - ✅ Pass\n"
+      },
+      "on-surface-variant": {
+        "value": "#c5c6d0",
+        "type": "color"
+      },
+      "outline": {
+        "value": "#8e9099",
+        "type": "color"
+      },
+      "inverse-on-surface": {
+        "value": "#1b1b1e",
+        "type": "color"
+      },
+      "inverse-surface": {
+        "value": "#e4e2e6",
+        "type": "color"
+      },
+      "inverse-primary": {
+        "value": "#0058cb",
+        "type": "color"
+      },
+      "shadow": {
+        "value": "#000000",
+        "type": "color"
+      },
+      "surface1-fill": {
+        "value": "#212227",
+        "type": "color"
+      },
+      "surface2-fill": {
+        "value": "#24252b",
+        "type": "color"
+      },
+      "surface3-fill": {
+        "value": "#272930",
+        "type": "color"
+      },
+      "surface4-fill": {
+        "value": "#2b2e37",
+        "type": "color"
+      },
+      "surface5-fill": {
+        "value": "#2d3039",
+        "type": "color"
+      },
+      "white": {
+        "value": "#ffffff",
+        "type": "color"
+      },
+      "black": {
+        "value": "#000000",
+        "type": "color"
       }
     }
   }
