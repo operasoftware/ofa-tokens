@@ -1,1 +1,90 @@
-[]
+[
+  {
+    "id": "d8306edf0072c0567d81ea9a943758d1df385967",
+    "name": "Baseline/light",
+    "selectedTokenSets": {
+      "System": "enabled",
+      "baseline/light": "enabled",
+      "baseline/dark": "disabled",
+      "baseline/reference": "disabled",
+      "States/light": "enabled",
+      "States/dark": "disabled",
+      "States/reference": "disabled",
+      "Toggle/light": "enabled",
+      "Toggle/dark": "disabled",
+      "Opera account": "disabled",
+      "File types/light": "enabled",
+      "File types/dark": "disabled",
+      "Purple/light": "disabled",
+      "Purple/dark": "disabled",
+      "Purple/reference": "disabled"
+    },
+    "$figmaStyleReferences": {}
+  },
+  {
+    "id": "6b2470d4580b795d85e83319ce6bb823e1670e51",
+    "name": "Baseline/dark",
+    "selectedTokenSets": {
+      "System": "enabled",
+      "baseline/light": "disabled",
+      "baseline/dark": "enabled",
+      "baseline/reference": "disabled",
+      "States/light": "disabled",
+      "States/dark": "enabled",
+      "States/reference": "disabled",
+      "Toggle/light": "disabled",
+      "Toggle/dark": "enabled",
+      "Opera account": "disabled",
+      "File types/light": "disabled",
+      "File types/dark": "enabled",
+      "Purple/light": "disabled",
+      "Purple/dark": "disabled",
+      "Purple/reference": "disabled"
+    },
+    "$figmaStyleReferences": {}
+  },
+  {
+    "id": "ab9ede5e517bc7b3f50c6bd41893961c86bf765c",
+    "name": "Purple/light",
+    "selectedTokenSets": {
+      "System": "enabled",
+      "baseline/light": "disabled",
+      "baseline/dark": "disabled",
+      "baseline/reference": "disabled",
+      "States/light": "enabled",
+      "States/dark": "disabled",
+      "States/reference": "disabled",
+      "Toggle/light": "enabled",
+      "Toggle/dark": "disabled",
+      "Opera account": "disabled",
+      "File types/light": "enabled",
+      "File types/dark": "disabled",
+      "Purple/light": "enabled",
+      "Purple/dark": "disabled",
+      "Purple/reference": "disabled"
+    },
+    "$figmaStyleReferences": {}
+  },
+  {
+    "id": "fbc3d45c47e981407c43d1ded9f0130ae0466b2f",
+    "name": "Purple/dark",
+    "selectedTokenSets": {
+      "System": "enabled",
+      "States/light": "disabled",
+      "States/dark": "enabled",
+      "States/reference": "disabled",
+      "Toggle/light": "disabled",
+      "Toggle/dark": "enabled",
+      "Opera account": "disabled",
+      "File types/light": "disabled",
+      "File types/dark": "enabled",
+      "Purple/light": "disabled",
+      "Purple/dark": "enabled",
+      "Purple/reference": "disabled",
+      "baseline/light": "disabled",
+      "baseline/dark": "disabled",
+      "baseline/reference": "disabled"
+    },
+    "$figmaStyleReferences": {}
+  }
+]
