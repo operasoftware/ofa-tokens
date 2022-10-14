@@ -1,0 +1,70 @@
+{
+  "File types": {
+    "Light": {
+      "PDF": {
+        "value": "#b4271d",
+        "type": "color"
+      },
+      "On-PDF": {
+        "value": "#ffffff",
+        "type": "color"
+      },
+      "Audio": {
+        "value": "#d68800",
+        "type": "color"
+      },
+      "On-audio": {
+        "value": "#ffffff",
+        "type": "color"
+      },
+      "Apps": {
+        "value": "#506600",
+        "type": "color"
+      },
+      "On-apps": {
+        "value": "#ffffff",
+        "type": "color"
+      },
+      "Images": {
+        "value": "#006b57",
+        "type": "color"
+      },
+      "On-images": {
+        "value": "#ffffff",
+        "type": "color"
+      },
+      "Documents": {
+        "value": "#00677f",
+        "type": "color"
+      },
+      "On-documents": {
+        "value": "#ffffff",
+        "type": "color"
+      },
+      "Videos": {
+        "value": "#315bae",
+        "type": "color"
+      },
+      "On-videos": {
+        "value": "#ffffff",
+        "type": "color"
+      },
+      "Archives": {
+        "value": "#8d4f00",
+        "type": "color"
+      },
+      "On-archives": {
+        "value": "#ffffff",
+        "type": "color"
+      },
+      "Other": {
+        "value": "#5e5e62",
+        "type": "color"
+      },
+      "On-other": {
+        "value": "#ffffff",
+        "type": "color"
+      }
+    }
+  }
+}

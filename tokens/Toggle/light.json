@@ -1,0 +1,54 @@
+{
+  "toggles": {
+    "light": {
+      "vpn": {
+        "value": "#0058cb",
+        "type": "color"
+      },
+      "on-vpn": {
+        "value": "#ffffff",
+        "type": "color"
+      },
+      "vpn-pro": {
+        "value": "linear-gradient(135deg, #3881fa 0%, #a21fad 100%)",
+        "type": "color"
+      },
+      "on-vpn-pro": {
+        "value": "#ffffff",
+        "type": "color"
+      },
+      "vpn-pro-solid": {
+        "value": "#a61ab2",
+        "type": "color"
+      },
+      "on-vpn-pro-solid": {
+        "value": "#ffffff",
+        "type": "color"
+      },
+      "ad-blocking": {
+        "value": "#ba1b1b",
+        "type": "color"
+      },
+      "on-ad-blocking": {
+        "value": "#ffffff",
+        "type": "color"
+      },
+      "data-saving": {
+        "value": "#006e1c",
+        "type": "color"
+      },
+      "on-data-saving": {
+        "value": "#ffffff",
+        "type": "color"
+      },
+      "night-mode": {
+        "value": "#725572",
+        "type": "color"
+      },
+      "on-night-mode": {
+        "value": "#ffffff",
+        "type": "color"
+      }
+    }
+  }
+}

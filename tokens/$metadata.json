@@ -5,6 +5,11 @@
     "baseline/dark",
     "states/sys tokens/light",
     "states/sys tokens/dark",
-    "states/ref tokens"
+    "states/ref tokens",
+    "Toggle/light",
+    "Toggle/dark",
+    "Opera account",
+    "File types/light",
+    "File types/dark"
   ]
 }

@@ -1,0 +1,18 @@
+{
+  "red": {
+    "value": "#FF1B2D",
+    "type": "color"
+  },
+  "blue": {
+    "value": "#00249C",
+    "type": "color"
+  },
+  "dark-blue": {
+    "value": "#122872",
+    "type": "color"
+  },
+  "light-blue": {
+    "value": "#2549BE",
+    "type": "color"
+  }
+}
