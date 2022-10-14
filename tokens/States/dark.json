@@ -1,56 +1,52 @@
 {
-  "states": {
-    "dark": {
-      "success": {
-        "value": "#72dd77",
-        "type": "color"
-      },
-      "on success": {
-        "value": "#003909",
-        "type": "color"
-      },
-      "success container": {
-        "value": "#005313",
-        "type": "color"
-      },
-      "on success container": {
-        "value": "#8efa90",
-        "type": "color"
-      },
-      "warning": {
-        "value": "#ffb68d",
-        "type": "color"
-      },
-      "on warning": {
-        "value": "#552100",
-        "type": "color"
-      },
-      "warning container": {
-        "value": "#783200",
-        "type": "color"
-      },
-      "on warning container": {
-        "value": "#ffdbc8",
-        "type": "color"
-      },
-      "error": {
-        "value": "#ffb4a9",
-        "type": "color",
-        "description": "error : on-error\n\nRegular text:\nLevel AA - ✅ Pass\nLevel AAA - ✅ Pass\n\nLarge text:\nLevel AA - ✅ Pass\nLevel AAA - ✅ Pass\n\nIcons:\nLevel AA - ✅ Pass\n"
-      },
-      "on-error": {
-        "value": "#680003",
-        "type": "color"
-      },
-      "error-container": {
-        "value": "#930006",
-        "type": "color",
-        "description": "error-container : on-error-container\n\nRegular text:\nLevel AA - ✅ Pass\nLevel AAA - ✅ Pass\n\nLarge text:\nLevel AA - ✅ Pass\nLevel AAA - ✅ Pass\n\nIcons:\nLevel AA - ✅ Pass\n"
-      },
-      "on-error-container": {
-        "value": "#ffdad4",
-        "type": "color"
-      }
-    }
+  "success": {
+    "value": "#72dd77",
+    "type": "color"
+  },
+  "on success": {
+    "value": "#003909",
+    "type": "color"
+  },
+  "success container": {
+    "value": "#005313",
+    "type": "color"
+  },
+  "on success container": {
+    "value": "#8efa90",
+    "type": "color"
+  },
+  "warning": {
+    "value": "#ffb68d",
+    "type": "color"
+  },
+  "on warning": {
+    "value": "#552100",
+    "type": "color"
+  },
+  "warning container": {
+    "value": "#783200",
+    "type": "color"
+  },
+  "on warning container": {
+    "value": "#ffdbc8",
+    "type": "color"
+  },
+  "error": {
+    "value": "#ffb4a9",
+    "type": "color",
+    "description": "error : on-error\n\nRegular text:\nLevel AA - ✅ Pass\nLevel AAA - ✅ Pass\n\nLarge text:\nLevel AA - ✅ Pass\nLevel AAA - ✅ Pass\n\nIcons:\nLevel AA - ✅ Pass\n"
+  },
+  "on-error": {
+    "value": "#680003",
+    "type": "color"
+  },
+  "error-container": {
+    "value": "#930006",
+    "type": "color",
+    "description": "error-container : on-error-container\n\nRegular text:\nLevel AA - ✅ Pass\nLevel AAA - ✅ Pass\n\nLarge text:\nLevel AA - ✅ Pass\nLevel AAA - ✅ Pass\n\nIcons:\nLevel AA - ✅ Pass\n"
+  },
+  "on-error-container": {
+    "value": "#ffdad4",
+    "type": "color"
   }
 }
